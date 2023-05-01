@@ -12,6 +12,7 @@ export const projectsData = [
         image: Work1,
         title: "Web design",
         category: "web",
+        link: "https://github.com/toju-toby22/quora"
       },
       {
         id: 2,

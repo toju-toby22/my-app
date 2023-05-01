@@ -42,10 +42,10 @@ const Footer = () => {
                 </div>
 
 
-                        <span className="footer__copy">&#169; TOBICODER. All rights reserved</span>
+                        <span className="footer__copy">&#169; TOBI.CODER. All rights reserved</span>
             </div>
         </footer>
     )
 }
 
-export default Footer
+export default Footer;
