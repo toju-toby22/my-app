@@ -42,7 +42,7 @@ const Footer = () => {
                 </div>
 
 
-                        <span className="footer__copy">&#169; TOBI.CODER. All rights reserved</span>
+                        <span className="footer__copy">&#169; TOBI.CODEs All rights reserved</span>
             </div>
         </footer>
     )
