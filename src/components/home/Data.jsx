@@ -19,7 +19,7 @@ const Data = () => {
             </h1>
            
             <h3 className="home__subtitle">
-                Full-Stack Web Developer
+                Front-end Web Developer
             </h3>
             <p className="home__description">
                 I'm a Web Developer based in Nigeria, and I'm very passionate  and dedicated to my work

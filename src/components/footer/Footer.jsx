@@ -25,13 +25,13 @@ const Footer = () => {
 
 
                 <div className="footer__social">
-                    <a href="" className="footer__social-link" target="_blank">
+                    <a href="https://www.facebook.com/profile.php?id=100085447813061&mibextid=ZbWKwL" className="footer__social-link" target="_blank">
                         <i class="bx bxl-facebook"></i>
                     </a>
 
 
 
-                    <a href="" className="footer__social-link" target="_blank">
+                    <a href="https://instagram.com/toju_toby?igshid=ZGUzMzM3NWJiOQ==" className="footer__social-link" target="_blank">
                         <i class="bx bxl-instagram"></i>
                     </a>
 
