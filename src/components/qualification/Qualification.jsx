@@ -24,18 +24,12 @@ const Qualification = () => {
 
             <div className="qualification__container container">
                 <div className="qualification__tabs">
-                    <div className={toggleState === 1 ? "qualification__button qualification__active button--flexx"
-                        : "qualification__button  button--flexx"}
-                        onClick={() => toggleTab(1)}
-                        >
+                    <div className= "qualification__button  button--flexx"         >
                         <i className="uil uil-graduation-cap qualification__icon"></i>Education
                     </div>
 
 
-                    <div className={toggleState === 2 ? "qualification__button qualification__active button--flexx"
-                        : "qualification__button  button--flexx"}
-                        onClick={() => toggleTab(2)}
-                        >
+                    <div className= "qualification__button  button--flexx">
                         <i className="uil uil-briefcase-alt qualification__icon"></i>Experience
                     </div>
                 </div>
@@ -43,8 +37,7 @@ const Qualification = () => {
 
 
                 <div className="qualification__sections">
-                    <div className={toggleState === 1 ? "qualification__content qualification__content-active" :
-                        "qualification__content "}>
+                    <div className= "qualification__content qualification__content-active" >
 
                         <div className="qualification__data">
 
@@ -70,12 +63,8 @@ const Qualification = () => {
 
                         <div className="qualification__data">
 
-                            <div></div>
-
-                            <div>
-                                <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
-                            </div>
+                         
+                        
 
                             <div>
                                 <h3 className="qualification__title">Economics</h3>
@@ -85,6 +74,11 @@ const Qualification = () => {
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i>2021 - 2023
                                 </div>
+                            </div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
                             </div>
 
                         </div>
@@ -116,13 +110,6 @@ const Qualification = () => {
 
                         <div className="qualification__data">
 
-                            <div></div>
-
-                            <div>
-                                <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
-                            </div>
-
                             <div>
                                 <h3 className="qualification__title">UX Expert</h3>
                                 <span className="qualification__subtitle">
@@ -133,6 +120,11 @@ const Qualification = () => {
                                 </div>
                             </div>
 
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+
                         </div>
 
                     </div>
@@ -140,12 +132,17 @@ const Qualification = () => {
 
 
             
-{/*             
-                    <div className={toggleState === 2 ? "qualification__content qualification__content-active" :
-                        "qualification__content "}>
+            
+                    <div className="qualification__content qualification__content-active" >
 
                         <div className="qualification__data">
 
+                            <div></div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
 
                             <div>
                                 <h3 className="qualification__title">UI Designer</h3>
@@ -156,10 +153,7 @@ const Qualification = () => {
                                     <i className="uil uil-calendar-alt"></i>2021 - Present
                                 </div>
                             </div>
-                            <div>
-                                <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
-                            </div>
+                          
 
                         </div>
 
@@ -195,6 +189,12 @@ const Qualification = () => {
 
                         <div className="qualification__data">
 
+                            <div></div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
 
                             <div>
                                 <h3 className="qualification__title">Web Designer</h3>
@@ -205,16 +205,13 @@ const Qualification = () => {
                                     <i className="uil uil-calendar-alt"></i>2021 - Present
                                 </div>
                             </div>
-                            <div>
-                                <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
-                            </div>
+                         
 
                         </div>
 
 
 
-                    </div> */}
+                    </div>
 
                 </div>
             </div>
