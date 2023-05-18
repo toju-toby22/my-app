@@ -61,7 +61,7 @@ const Qualification = () => {
 
 
 
-                        <div className="qualification__data">
+                        {/* <div className="qualification__data">
 
                          
                         
@@ -81,7 +81,7 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
 
-                        </div>
+                        </div> */}
 
 
 
@@ -90,12 +90,12 @@ const Qualification = () => {
 
 
                             <div>
-                                <h3 className="qualification__title">Web Development</h3>
+                                <h3 className="qualification__title">Web Development Intern</h3>
                                 <span className="qualification__subtitle">
                                     Nigeria - Reworks Academy
                                 </span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2021 - 2022
+                                    <i className="uil uil-calendar-alt"></i>2021 - 20234
                                 </div>
                             </div>
                             <div>
@@ -145,12 +145,12 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">UI Designer</h3>
+                                <h3 className="qualification__title">Web Developer</h3>
                                 <span className="qualification__subtitle">
-                                    Microsoft - USA
+                                    Nigeria
                                 </span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2021 - Present
+                                    <i className="uil uil-calendar-alt"></i>2021 - 2023
                                 </div>
                             </div>
                           
@@ -159,7 +159,7 @@ const Qualification = () => {
 
 
 
-
+{/* 
                         <div className="qualification__data">
 
                             <div></div>
@@ -207,7 +207,7 @@ const Qualification = () => {
                             </div>
                          
 
-                        </div>
+                        </div> */}
 
 
 

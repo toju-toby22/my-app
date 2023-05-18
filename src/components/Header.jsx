@@ -98,7 +98,7 @@ const Header = () => {
                 </div>
 
                         <div className="nav__toggle" onClick={() => showMenu (!Toggle)}>
-                        <i class='bx bx-menu bx-tada bx-flip-vertical' ></i>
+                        <i class='bx bx-menu'></i>
                         </div>
             </nav>
         </header>

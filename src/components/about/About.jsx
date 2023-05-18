@@ -1,7 +1,7 @@
 import React from 'react'
 import "./about.css"
-import AboutImg from "../../Assets/mine.jpg"
-import CV from "../../Assets/John-Cv.pdf"
+import AboutImg from "../../Assets/tobs.jpg"
+import CV from "../../Assets/TOBI TOCHUKWU.CV.pdf"
 import Info from "./Info"
 const About = () => {
   return (
@@ -17,8 +17,10 @@ const About = () => {
         <div className="about__data">
           <Info/>
           <p className="about__description">
-         I am a goal driven youngter who loves creating value. I love to explore and try new things. <br/>
+         I am a goal-driven youngster who loves creating value. I love to explore and try new things. <br/>
          Most importantly I am a Website Developer who is keen on creating quality impact in the tech society at large.
+
+         justt
           </p>
 
           <a download="" href={CV} className="button button--flex">

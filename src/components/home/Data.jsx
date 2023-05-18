@@ -22,7 +22,7 @@ const Data = () => {
                 Web Developer
             </h3>
             <p className="home__description">
-                Hey there! I am a Web Developer based in Nigeria, and I'm very passionate and dedicated to my work.
+                Hey there! I am a Web Developer based in Nigeria, I'm very passionate and dedicated to my work. <br/>Scroll down to know more about me.
             </p>
             <a href="#contact" className="button button--flex">
                 Say Hello
