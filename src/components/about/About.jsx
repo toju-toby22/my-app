@@ -18,9 +18,7 @@ const About = () => {
           <Info/>
           <p className="about__description">
          I am a goal-driven youngster who loves creating value. I love to explore and try new things. <br/>
-         Most importantly I am a Website Developer who is keen on creating quality impact in the tech society at large.
-
-         justt
+         Most importantly I am a Website Developer who is keen on creating value in the tech space
           </p>
 
           <a download="" href={CV} className="button button--flex">
