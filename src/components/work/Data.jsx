@@ -1,9 +1,10 @@
 import Work1 from "../../Assets/download.png"
 import Work2 from "../../Assets/movie.png"
 import Work3 from "../../Assets/park.png"
-import Work4 from "../../Assets/work4.jpg"
+// import Work4 from "../../Assets/work4.jpg"
 import Work5 from "../../Assets/movie.png"
 import Work6 from "../../Assets/images.jpeg"
+import Work4 from "../../Assets/tic-tac.png"
 
 
 
@@ -14,6 +15,7 @@ export const projectsData = [
     image: Work6,
     title: "Jumia Clone",
     category: "web",
+    link:"https://github.com/toju-toby22/5-days-project"
   },
 
 
@@ -38,6 +40,14 @@ export const projectsData = [
     image: Work5,
     title: "Cinema booking system (N/A)",
     category: "web",
+  },
+
+  {
+    id: 5,
+    image: Work4,
+    title: "Tic-Tac-Toe",
+    category: "web",
+    link:"https://github.com/toju-toby22/tic-tac-toe"
   },
 ]
 
