@@ -1,7 +1,7 @@
 import React from 'react'
 import "./about.css"
 import AboutImg from "../../Assets/tobs.jpg"
-import CV from "../../Assets/TOBI TOCHUKWU.CV.pdf"
+import CV from "../../Assets/TOBI TOCHUKWU.CV (Autosaved).docx"
 import Info from "./Info"
 const About = () => {
   return (
